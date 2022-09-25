@@ -1,0 +1,27 @@
+img.logo{
+display: inline-block;
+margin-left:auto;
+  width: 11%
+
+}
+p.texte{
+  text-align: center;
+}
+h3{
+  text-decoration: underline;
+}
+#bigpic{
+width: 50%;
+
+display:block;
+margin-right: auto;
+margin-left: auto;
+}
+#rbigpic{
+  float: right;
+width: 9%;
+display: inline-block;
+display:block;
+margin-right: 1px;
+margin-left: auto;
+}
